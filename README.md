@@ -1,2 +1,2 @@
-# api3-governance
-Archival repository for governance-related documents
+# API3 Governance
+> Archival repository for governance-related documents
