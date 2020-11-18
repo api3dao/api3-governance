@@ -1,10 +1,5 @@
 Proposed by [dOrg](https://dorg.tech/)
 
-_Client_
-
-**[API3](https://api3.org/)**
-
-
 
 _Proposed_
 
@@ -49,7 +44,7 @@ Testing & Feedback
 
 ## Work Plan
 
-**Assumed Start Date**: November 16, 2020
+**Assumed Start Date**: November 23, 2020
 
 
 <table>
@@ -130,6 +125,6 @@ Deploy on testnet for stakeholder review and implement feedback
 </table>
 
 
-**Estimated Delivery Date**: February 15, 2021 
+**Estimated Delivery Date**: March 1, 2021 
 
 (_dependent on third-party audit_ and excluding holidays)
